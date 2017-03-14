@@ -1,1 +1,22 @@
 # Assignment-5.5
+Problem Statement
+
+Titanic Data Analysis
+
+Write a mapreduce program to find out number of males and females survived in the titanic tragedy.
+Download the Titanic data set from the below link
+
+Titanic_Dataset
+DATA SET DESCRIPTION
+Column 1 : PassengerId
+Column 2 : Survived (survived=0 & died=1)
+Column 3 : Pclass
+Column 4 : Name
+Column 5 : Sex
+Column 6 : Age
+Column 7 : SibSp
+Column 8 : Parch
+Column 9 : Ticket
+Column 10 : Fare
+Column 11 : Cabin
+Column 12 : Embarked
